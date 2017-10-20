@@ -1,6 +1,6 @@
 # Sensitive-word-filter
-##
-Sensitive word filtering
+
+##Sensitive word filtering
 
 Translate directly from the DFA algorithm of Java.
 
@@ -12,8 +12,7 @@ You can use the SensitiveWordFilter.go validation and replace sensitive words.
 
 Use the example to see main.go
 
-##
-敏感词过滤
+##敏感词过滤
 
 直接从Java版DFA算法实现翻译过来。
 
