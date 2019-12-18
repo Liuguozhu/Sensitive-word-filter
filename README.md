@@ -4,7 +4,7 @@
 
 Translate directly from the DFA algorithm of Java.
 
-The word library is also an example,can be replaced with other word libraries if you need, you can also add entries by yourself.
+The word library is just an example,can be replaced with other word libraries if you need, you can also add entries by yourself.
 
 Call the load word library in the sensitivewordinit.go.
 
